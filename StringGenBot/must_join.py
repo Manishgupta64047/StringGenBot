@@ -20,11 +20,11 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://te.legra.ph/file/8768bc3511c4f0a631411.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ᴀʙᴏᴜᴛ ᴘɪʏᴜꜱʜ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ᴀʙᴏᴜᴛ ᴘɪʏᴜꜱʜ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
+                    photo="https://te.legra.ph/file/cce8a46326e6067f0d88c.jpg", caption=f"» 𝓓𝓾𝓮 𝓣𝓸 𝓸𝓿𝓮𝓻𝓵𝓸𝓪𝓭 𝓞𝓷𝓵𝔂 𝓜𝔂 𝓒𝓱𝓪𝓷𝓷𝓮𝓵𝓼 𝓢𝓾𝓫𝓼 𝓒𝓪𝓷 𝓤𝓼𝓮 𝓜𝓮 !",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🇮🇳 ᴀʙᴏᴜᴛ ᴘɪʏᴜꜱʜ", url=link),
+                                InlineKeyboardButton("🇮🇳Main Channel", url=link),
                             ]
                         ]
                     )
