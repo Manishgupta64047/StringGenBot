@@ -21,11 +21,11 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [Dev](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🫧 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🫧", callback_data="generate")
+                    InlineKeyboardButton(text="🥀 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🌷", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("☂️ Updates ☂️", url="https://t.me/mdisk_bots"),
-                    InlineKeyboardButton("⚠️ ᴏᴡɴᴇʀ ⚠️", user_id=OWNER_ID)
+                    InlineKeyboardButton("🌸 Updates 🎗️", url="https://t.me/mdisk_bots"),
+                    InlineKeyboardButton("🪔 ᴏᴡɴᴇʀ 🎋", user_id=OWNER_ID)
                 ]
             ]
         ),
