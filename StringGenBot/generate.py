@@ -25,7 +25,7 @@ import config
 
 
 
-ask_ques = "**» ᴩʟᴇᴀsᴇ ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴩʏᴛʜᴏɴ ʟɪʙʀᴀʀʏ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ :**"
+ask_ques = "**» ᴩʟᴇᴀsᴇ ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴩʏᴛʜᴏɴ ʟɪʙʀᴀʀʏ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ .𝐃𝐨𝐧'𝐭 𝐖𝐨𝐫𝐫𝐲 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐈𝐬 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐥𝐲 𝐒𝐚𝐟𝐞,𝐓𝐞𝐬𝐭𝐞𝐝,& 𝐓𝐫𝐮𝐬𝐭𝐞𝐝 ,𝐈𝐟 𝐔 𝐁𝐞𝐥𝐢𝐞𝐯𝐞 𝐢𝐭 𝐰𝐨𝐮𝐥𝐝 𝐯𝐢𝐨𝐥𝐚𝐭𝐞𝐬 𝐮𝐬𝐞𝐫𝐬 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐭𝐡𝐞𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐥𝐞𝐚𝐯𝐞 😔 :**"
 buttons_ques = [
     [
         InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ", callback_data="pyrogram"),
@@ -39,7 +39,7 @@ buttons_ques = [
 
 gen_button = [
     [
-        InlineKeyboardButton(text="🫧 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🫧", callback_data="generate")
+        InlineKeyboardButton(text="🪔 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🪔", callback_data="generate")
     ]
 ]
 
